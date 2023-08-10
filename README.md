@@ -2,8 +2,9 @@
                         
 <div align="center">
   <a href="https://github.com/CaubiNeto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaubiNeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=css,scss"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaubiNeto&exclude_repo=python-oracle&layout=compact&langs_count=10&theme=dracula&count_private=false&hide=css,scss,php,hack,html"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaubiNeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaubiNeto&layout=compact&langs_count=10&theme=dracula&count_private=true"/>
+  </a>
 </div>
 
  <div align="center">
