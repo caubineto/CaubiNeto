@@ -1,5 +1,5 @@
 
-<h2> Olá, eu sou o Caubi Neto!.</h2>
+<h2> Olá, eu sou o Caubi Neto!</h2>
 
  Sou um entusiasta da tecnologia e da programação. Este é o meu espaço no GitHub, onde compartilho projetos e explorando meu amor pela codificação. Fique à vontade para explorar e me conhecer melhor. Se tiver alguma pergunta ou sugestão, entre em contato!
                         
