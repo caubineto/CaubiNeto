@@ -3,11 +3,10 @@
 
  Sou um entusiasta da tecnologia e da programação. Este é o meu espaço no GitHub, onde compartilho projetos e explorando meu amor pela codificação. Fique à vontade para explorar e me conhecer melhor. Se tiver alguma pergunta ou sugestão, entre em contato!
                         
-<div align="center">
-  <a href="https://github.com/CaubiNeto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caubineto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="CaubiNeto's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caubineto&layout=compact&theme=dracula" alt="CaubiNeto's Top Languages"/>
-  </a>
+<div align="center" width="100%">
+<!--   <img width="70%" src="https://streak-stats.demolab.com/?user=caubineto&theme=dracula" alt="caubineto" /> -->
+  <img width="35%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=caubineto&show_icons=true&locale=en&layout=compact&theme=dracula" alt="caubineto" />  
+  <img width="45%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=caubineto&show_icons=true&locale=en&theme=dracula" alt="caubineto" />
 </div>
 
 
