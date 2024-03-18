@@ -1,7 +1,7 @@
 
-<h2> Olá, eu sou o Caubi Neto!</h2>
+### Hi there 👋
 
- Sou um entusiasta da tecnologia e da programação. Este é o meu espaço no GitHub, onde compartilho projetos e explorando meu amor pela codificação. Fique à vontade para explorar e me conhecer melhor. Se tiver alguma pergunta ou sugestão, entre em contato!
+I am a technology and programming enthusiast. This is my GitHub space where I share projects and explore my love for accommodation. Feel free to explore and get to know me better. If you have any questions or suggestions, get in touch!
 
  <br>
                         
@@ -11,7 +11,14 @@
   <img width="45%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=caubineto&show_icons=true&locale=en&theme=dracula" alt="caubineto" />
 </div>
 
-<br>
+____
+
+<div align = "center">
+ 
+## ⚡ Technologies 
+
+These are some of the technologies and tools that I work with:
+</div>
 
  <div align="center">
  <div style="display: inline_block"><br>
@@ -29,6 +36,7 @@
 </div>
 
   ##
+  
  
 <div> 
   <a href="https://instagram.com/caubineto_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
